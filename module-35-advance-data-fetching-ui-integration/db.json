@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": " Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://example.com/headphones.jpg",
+      "description": "Comfortable wireless headphones with noise cancellation.",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://example.com/smartwatch.jpg",
+      "description": "Smart watch with fitness tracking and heart rate monitoring.",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": " Shoes",
+      "price": 74.99,
+      "category": "Footwear",
+      "image": "https://example.com/shoes.jpg",
+      "description": "Lightweight running shoes designed for everyday workouts.",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Leather Backpack",
+      "price": 49.99,
+      "category": "Bags",
+      "image": "https://example.com/backpack.jpg",
+      "description": "Stylish and durable backpack suitable for work and travel.",
+      "stock": 18
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Keyboard",
+      "price": 69.99,
+      "category": "Electronics",
+      "image": "https://example.com/keyboard.jpg",
+      "description": "RGB mechanical keyboard with comfortable responsive keys.",
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Cotton T-Shirt",
+      "price": 24.99,
+      "category": "Clothing",
+      "image": "https://example.com/tshirt.jpg",
+      "description": "Soft and comfortable cotton t-shirt for everyday wear.",
+      "stock": 40
+    }
+  ]
+}
