@@ -18,7 +18,7 @@ const Navbar = () => {
          <Link href='/listed-books'>Listed Books</Link>
           
         </li>
-        <li><a>Item 3</a></li>
+        <li><Link href='/read-books'>Pages to Read</Link></li> 
       </ul>
     </div>
     <div className='flex gap-2 items-center'>
@@ -32,7 +32,7 @@ const Navbar = () => {
       <li>
         <Link href='/listed-books'>Listed Books</Link>
       </li>
-      <li><a>Item 3</a></li>
+     <li><Link href='/read-books'>Pages to Read</Link></li> 
     </ul>
   </div>
   <div className="navbar-end gap-3">
